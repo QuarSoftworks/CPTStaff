@@ -97,13 +97,13 @@
             link
             v-if="this.$store.state.user.perms.includes('admin')"
             class="mt-2 fixedBottom"
-            :href="`https://github.com/ItsWHOOOP/tovy`"
+            :href="`https://discord.gg/fallenworlds`"
           >
             <v-list-item-icon class="ml-2">
               <v-icon>mdi-github</v-icon>
             </v-list-item-icon>
             <v-list-item-content>
-              <v-list-item-title>Github</v-list-item-title>
+              <v-list-item-title>Discord</v-list-item-title>
             </v-list-item-content>
           </v-list-item>
         </v-list-item-group>
