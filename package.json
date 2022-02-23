@@ -1,5 +1,5 @@
 {
-  "name": "tovy",
+  "name": "CPT",
   "version": "0.3.25",
   "scripts": {
     "serve": "vue-cli-service serve --host localhost",
